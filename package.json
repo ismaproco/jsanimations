@@ -17,8 +17,7 @@
     "url": "https://github.com/ismaproco/jsanimations/issues"
   },
   "homepage": "https://github.com/ismaproco/jsanimations#readme",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "babel-core": "^6.4.5",
     "babel-loader": "^6.2.1",
@@ -28,6 +27,7 @@
     "less": "^2.6.1",
     "less-loader": "^2.2.3",
     "style-loader": "^0.13.1",
-    "webpack": "^1.12.12"
+    "webpack": "^1.12.12",
+    "webpack-dev-server": "^1.16.1"
   }
 }
